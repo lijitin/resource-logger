@@ -1,0 +1,4 @@
+Linux 5.4.0-42-generic (LT480) 	08/15/2020 	_x86_64_	(8 CPU)
+
+07:23:59 PM kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty
+07:24:04 PM   3859248  10051328  12430836     76.31    563000   6363588  17712456     54.64   7049588   4443700     65116
